@@ -16,7 +16,7 @@ Tools related to the Australian National Electricity Market (NEM)
 - Desc
 
 #### [NEMSEER](https://github.com/UNSW-CEEM/NEMSEER)
-- Desc
+- A Python package for downloading and handling historical National Electricity Market (NEM) forecast data (5MPD, PD, PDPASA, STPASA and MTPASA) produced by the Australian Energy Market Operator (AEMO).
 
 #### [NEMED](https://github.com/UNSW-CEEM/NEMED)
 - Desc
