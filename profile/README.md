@@ -2,7 +2,7 @@
 
 The [**Collaboration on Energy and Environmental Markets (CEEM)**](https://www.ceem.unsw.edu.au/) at the University of New South Wales undertakes interdisciplinary research in the design, analysis and performance of energy and environmental markets and their associated policy frameworks. 
 
-CEEM brings together UNSW researchers from the UNSW Business School (was the Australian School of Business), the Faculty of Engineering, the Faculty of Arts and Social Sciences, the Institute of Environmental Studies, and the Faculty of Law, working alongside a growing number of international partners.
+CEEM brings together UNSW researchers from a number of Faculties, working together to address key challenges for energy transition applying engineering, economic, business, policy, social and legal perspectives and tools. It is particularly keen to promote open data and open source tools that allow a wide range of interested stakeholders to contribute to successful Australian and global energy transition. 
 
 This GitHub organisation hosts software, including open source tools, created by UNSW CEEM researchers.
 
