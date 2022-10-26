@@ -25,3 +25,9 @@ Tools related to the Australian National Electricity Market (NEM)
 
 #### [nempy](https://github.com/UNSW-CEEM/nempy)
 - Nempy is a Python package for modelling the dispatch procedure of the Australian National Electricity Market (NEM). It can be used to formulate very simple dispatch models, or more complex ones by adding features such as ramping constraints, interconnectors, FCAS markets and more.
+
+## Distributed Energy Resources (DER) Modelling Tools
+
+#### [Solar-Curtailment](https://github.com/UNSW-CEEM/Solar-Curtailment)
+- Solar-Curtailment Python package is for calculating distributed energy resource curtailment including distributed-PV (D-PV) and battery energy storage systems (BESS). Three modes of curtailment can be analysed according to AS/NZS 4777.2-2020: tripping, V-VAr and V-Watt.
+
