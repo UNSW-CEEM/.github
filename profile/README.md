@@ -13,7 +13,7 @@ Tools related to the Australian National Electricity Market (NEM)
 ### Data
 
 #### [NEMOSIS](https://github.com/UNSW-CEEM/NEMOSIS)
-- A Python package for downloading historical data published by the Australian Energy Market Operator (AEMO). Data avaliable includes energy and FCAS market prices, regional demand and generation summaries, generator dispatch targets and SCADA, interconnector flows and losses, generator bids, and generic constraint formulations and marginal values.
+- A Python package for downloading historical data published by the Australian Energy Market Operator (AEMO). Data available includes energy and FCAS market prices, regional demand and generation summaries, generator dispatch targets and SCADA, interconnector flows and losses, generator bids, and generic constraint formulations and marginal values.
 
 #### [NEMSEER](https://github.com/UNSW-CEEM/NEMSEER)
 - A Python package for downloading and handling historical National Electricity Market (NEM) forecast data (5MPD, PD, PDPASA, STPASA and MTPASA) produced by the Australian Energy Market Operator (AEMO).
