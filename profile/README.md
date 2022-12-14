@@ -28,6 +28,10 @@ Tools related to the Australian National Electricity Market (NEM)
 
 ## Distributed Energy Resources (DER) Modelling Tools
 
+#### [PrecoolTool](https://github.com/ShayanNaderi/PrecoolTool)
+- PrecoolTool is an online web application for calculating solar pre-cooling potential of Australian building stock. It has a database of the avaialble building types in Australia, and electrical load profiles and PV generation from 450 Australian households. PrecoolTool simulates solar pre-cooling during a summer.
+
+
 #### [Solar-Curtailment](https://github.com/UNSW-CEEM/Solar-Curtailment)
 - Solar-Curtailment Python package is for calculating distributed energy resource curtailment including distributed-PV (D-PV) and battery energy storage systems (BESS). Three modes of curtailment can be analysed according to AS/NZS 4777.2-2020: tripping, V-VAr and V-Watt.
 
