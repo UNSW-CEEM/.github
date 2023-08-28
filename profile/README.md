@@ -26,7 +26,7 @@ Tools related to the Australian National Electricity Market (NEM)
 - View the Web App at [https://nembiddingdashboard.org](https://nembiddingdashboard.org)
 
 #### [Pacific_Islands_Energy_Balance](https://github.com/UNSW-CEEM/Pacific_Islands_Energy_Balance)
-- a web-based data visualization and simulation tool for decarbonization of Pacific Islands Countries and Territories (PICTs)
+- a web-based data visualization and simulation tool (http://www.pacificenergybalance.com/) for decarbonization of Pacific Islands Countries and Territories (PICTs)
 - High-level energy balance for PICTs
 - Renewable energy potential assessment for PICTs
 
